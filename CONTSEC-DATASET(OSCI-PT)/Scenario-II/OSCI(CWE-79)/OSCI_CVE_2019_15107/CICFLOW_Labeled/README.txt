@@ -1,0 +1,1 @@
+Destination Port numarası ve Source IP Adres bilgileri doğrudan label ile eşleştiğinden, trainde kullanımamasıgerekmektedir, Bana göre Flow ID,	Src IP,	Src Port, Dst IP,Dst Port, ve Tmestamp, kolonlarının tamamının trainde kullanılmaması daha doğru olacak gibi ama, bir bilene sormak lazım!
